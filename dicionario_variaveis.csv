@@ -1,0 +1,211 @@
+codigo,descricao,grupo,pct_preenchido
+POP_TOT,População total do município do ano de referência (Fonte: IBGE):,População,100.0
+POP_URB,População urbana do município do ano de referência (Fonte: IBGE):,População,95.9
+AG001,População total atendida com abastecimento de água,Água,80.2
+AG001A,População total atendida com abastecimento de água no ano anterior ao de referência.,Água,76.1
+AG002,Quantidade de ligações ativas de água,Água,80.1
+AG002A,Quantidade de ligações ativas de água no ano anterior ao de referência.,Água,76.0
+AG003,Quantidade de economias ativas de água,Água,80.1
+AG003A,Quantidade de economias ativas de água no ano anterior ao de referência.,Água,76.0
+AG004,Quantidade de ligações ativas de água micromedidas,Água,80.1
+AG004A,Quantidade de ligações ativas de água micromedidas no ano anterior ao de referência.,Água,76.0
+AG005,Extensão da rede de água,Água,80.0
+AG005A,Extensão da rede de água no ano anterior ao de referência.,Água,76.0
+AG006,Volume de água produzido,Água,79.7
+AG007,Volume de água tratada em ETAs,Água,79.3
+AG008,Volume de água micromedido,Água,79.7
+AG010,Volume de água consumido,Água,79.6
+AG011,Volume de água faturado,Água,79.7
+AG012,Volume de água macromedido,Água,79.7
+AG013,Quantidade de economias residenciais ativas de água,Água,80.1
+AG013A,Quantidade de economias residenciais ativas de água no ano anterior ao de referência.,Água,76.0
+AG014,Quantidade de economias ativas de água micromedidas,Água,77.9
+AG014A,Quantidade de economias ativas de água micromedidas no ano anterior ao de referência.,Água,73.8
+AG015,Volume de água tratada por simples desinfecção,Água,77.8
+AG017,Volume de água bruta exportado,Água,74.5
+AG018,Volume de água tratada importado,Água,76.0
+AG019,Volume de água tratada exportado,Água,74.2
+AG020,Volume micromedido nas economias residenciais ativas de água,Água,77.8
+AG021,Quantidade de ligações totais de água,Água,77.9
+AG021A,Quantidade de ligações totais de água no ano anterior ao de referência.,Água,73.8
+AG022,Quantidade de economias residenciais ativas de água micromedidas,Água,77.9
+AG022A,Quantidade de economias residenciais ativas de água micromedidas no ano anterior ao de referência.,Água,73.8
+AG024,Volume de serviço,Água,77.5
+AG025A,População rural atendida com abastecimento de água no ano anterior ao de referência.,Água,25.4
+AG026,População urbana atendida com abastecimento de água,Água,73.9
+AG026A,População urbana atendida com abastecimento de água no ano anterior ao de referência.,Água,73.9
+AG027,Volume de água fluoretada,Água,74.4
+AG028,Consumo total de energia elétrica nos sistemas de água,Água,74.3
+ES001,População total atendida com esgotamento sanitário,Esgoto,41.8
+ES001A,População total atendida com esgotamento sanitário no ano anterior ao de referência.,Esgoto,39.6
+ES002,Quantidade de ligações ativas de esgotos,Esgoto,40.4
+ES002A,Quantidade de ligações ativas de esgoto no ano anterior ao de referência.,Esgoto,38.2
+ES003,Quantidade de economias ativas de esgotos,Esgoto,40.4
+ES003A,Quantidade de economias ativas de esgoto no ano anterior ao de referência.,Esgoto,38.2
+ES004,Extensão da rede de esgotos,Esgoto,40.4
+ES004A,Extensão da rede de esgoto no ano anterior ao de referência.,Esgoto,38.2
+ES005,Volume de esgotos coletado,Esgoto,41.6
+ES006,Volume de esgotos tratado,Esgoto,41.6
+ES007,Volume de esgotos faturado,Esgoto,41.6
+ES008,Quantidade de economias residenciais ativas de esgotos,Esgoto,40.4
+ES008A,Quantidade de economias residenciais ativas de esgoto no ano anterior ao de referência.,Esgoto,38.2
+ES009,Quantidade de ligações totais de esgotos,Esgoto,39.7
+ES009A,Quantidade de ligações totais de esgoto no ano anterior ao de referência.,Esgoto,37.5
+ES012,Volume de esgoto bruto exportado,Esgoto,28.3
+ES013,Volume de esgotos bruto importado,Esgoto,28.3
+ES014,Volume de esgoto importado tratado nas instalações do importador,Esgoto,28.3
+ES015,Volume de esgoto bruto exportado tratado nas instalações do importador,Esgoto,27.2
+ES025A,População rural atendida com esgotamento sanitário no ano anterior ao de referência.,Esgoto,19.6
+ES026,População urbana atendida com esgotamento sanitário,Esgoto,39.0
+ES026A,População urbana atendida com esgotamento sanitário no ano anterior ao de referência.,Esgoto,39.0
+ES028,Consumo total de energia elétrica nos sistemas de esgotos,Esgoto,38.7
+FN001,Receita operacional direta total,Financeiro,78.1
+FN002,Receita operacional direta de água,Financeiro,80.1
+FN003,Receita operacional direta de esgoto,Financeiro,43.7
+FN004,Receita operacional indireta,Financeiro,77.7
+FN005,Receita operacional total (direta + indireta),Financeiro,77.8
+FN006,Arrecadação total,Financeiro,80.1
+FN007,Receita operacional direta de água exportada (bruta ou tratada),Financeiro,76.2
+FN008,Créditos de contas a receber,Financeiro,77.6
+FN008A,Crédito de contas a receber no ano anterior ao de referência.,Financeiro,73.5
+FN010,Despesa com pessoal próprio,Financeiro,79.8
+FN011,Despesa com produtos químicos,Financeiro,79.6
+FN013,Despesa com energia elétrica,Financeiro,80.0
+FN014,Despesa com serviços de terceiros,Financeiro,80.1
+FN015,"Despesas de Exploração (DEX), sendo FN015 = FN010 + FN011 + FN013 + FN014 + FN020 + FN039 + FN021 + FN027",Financeiro,79.5
+FN016,Despesas com juros e encargos do serviço da dívida,Financeiro,76.2
+FN017,"Despesas totais com os serviços (DTS), sendo FN017 = FN015 + FN016 + FN019 + FN022 + FN028",Financeiro,77.7
+FN018,Despesas capitalizáveis realizadas pelo prestador de serviços,Financeiro,75.8
+FN019,"Despesas com depreciação, amortização do ativo diferido e provisão para devedores duvidosos",Financeiro,77.8
+FN020,Despesa com água importada (bruta ou tratada),Financeiro,77.0
+FN021,Despesas fiscais ou tributárias computadas na DEX,Financeiro,77.6
+FN022,Despesas fiscais ou tributárias não computadas na DEX,Financeiro,76.2
+FN023,Investimento realizado em abastecimento de água pelo prestador de serviços,Financeiro,79.7
+FN024,Investimento realizado em esgotamento sanitário pelo prestador de serviços,Financeiro,79.2
+FN025,Outros investimentos realizados pelo prestador de serviços,Financeiro,77.9
+FN026,Quantidade total de empregados próprios,Financeiro,79.7
+FN026A,Quantidade total de empregados próprios no ano anterior ao de referência.,Financeiro,75.6
+FN027,Outras despesas de exploração,Financeiro,75.7
+FN028,Outras despesas com os serviços,Financeiro,76.0
+FN030,Investimento com recursos próprios realizado pelo prestador de serviços.,Financeiro,77.1
+FN031,Investimento com recursos onerosos realizado pelo prestador de serviços.,Financeiro,70.2
+FN032,Investimento com recursos não onerosos realizado pelo prestador de serviços.,Financeiro,70.4
+FN033,Investimentos totais realizados pelo prestador de serviços,Financeiro,77.9
+FN034,Despesas com amortizações do serviço da dívida,Financeiro,75.3
+FN035,"Despesas com juros e encargos do serviço da dívida, exceto variações monetária e cambial",Financeiro,75.2
+FN036,Despesa com variações monetárias e cambiais das dívidas,Financeiro,75.3
+FN037,Despesas totais com o serviço da dívida,Financeiro,56.4
+FN038,Receita operacional direta - esgoto bruto importado,Financeiro,34.6
+FN039,Despesa com esgoto exportado,Financeiro,32.3
+FN041,Despesas capitalizáveis realizadas pelo(s) município(s),Financeiro,48.5
+FN042,Investimento realizado em abastecimento de água pelo(s) município(s),Financeiro,48.5
+FN043,Investimento realizado em esgotamento sanitário pelo(s) município(s),Financeiro,48.5
+FN044,Outros investimentos realizados pelo(s) município(s),Financeiro,48.5
+FN045,Investimento com recursos próprios realizado pelo(s) município(s),Financeiro,48.5
+FN046,Investimento com recursos onerosos realizado pelo(s) município(s),Financeiro,48.5
+FN047,Investimento com recursos não onerosos realizado pelo(s) município(s),Financeiro,48.5
+FN048,Investimentos totais realizados pelo(s) município(s),Financeiro,48.5
+FN051,Despesas capitalizáveis realizadas pelo estado,Financeiro,32.4
+FN052,Investimento realizado em abastecimento de água pelo estado,Financeiro,32.4
+FN053,Investimento realizado em esgotamento sanitário pelo estado,Financeiro,32.4
+FN054,Outros investimentos realizados pelo estado,Financeiro,32.4
+FN055,Investimento com recursos próprios realizado pelo estado,Financeiro,32.4
+FN056,Investimento com recursos onerosos realizado pelo estado,Financeiro,32.4
+FN057,Investimento com recursos não onerosos realizado pelo estado,Financeiro,32.4
+FN058,Investimentos totais realizados pelo estado,Financeiro,32.4
+QD001,Tipo de atendimento da portaria sobre qualidade da água,Qualidade,0.0
+QD002,Quantidades de paralisações no sistema de distribuição de água,Qualidade,75.2
+QD003,Duração das paralisações,Qualidade,75.0
+QD004,Quantidade de economias ativas atingidas por paralisações,Qualidade,57.2
+QD006,Quantidade de amostras para cloro residual (analisadas),Qualidade,78.4
+QD007,Quantidade de amostras para cloro residual com resultados fora do padrão,Qualidade,75.4
+QD008,Quantidade de amostras para turbidez (analisadas),Qualidade,78.1
+QD009,Quantidade de amostras para turbidez fora do padrão,Qualidade,76.8
+QD011,Quantidades de extravasamentos de esgotos registrados,Qualidade,16.8
+QD012,Duração dos extravasamentos registrados,Qualidade,14.1
+QD015,Quantidade de economias ativas atingidas por interrupções sistemáticas,Qualidade,56.5
+QD019,Quantidade mínima de amostras para turbidez (obrigatórias),Qualidade,78.6
+QD020,Quantidade mínima de amostras para cloro residual (obrigatórias),Qualidade,78.2
+QD021,Quantidade de interrupções sistemáticas,Qualidade,74.5
+QD022,Duração das interrupções sistemáticas,Qualidade,74.1
+QD023,Quantidade de reclamações ou solicitações de serviços,Qualidade,69.8
+QD024,Quantidade de serviços executados,Qualidade,69.5
+QD025,Tempo total de execução dos serviços,Qualidade,68.6
+QD026,Quantidade de amostras para coliformes totais (analisadas),Qualidade,74.0
+QD027,Quantidade de amostras para coliformes totais com resultados fora do padrão,Qualidade,73.6
+QD028,Quantidade mínima de amostras para coliformes totais (obrigatórias),Qualidade,74.0
+IN001,Densidade de economias de água por ligação,Indicador calculado,77.1
+IN002,Índice de produtividade: economias ativas por pessoal próprio,Indicador calculado,70.8
+IN003,Despesa total com os serviços por m3 faturado,Indicador calculado,76.4
+IN004,Tarifa média praticada,Indicador calculado,76.3
+IN005,Tarifa média de água,Indicador calculado,73.4
+IN006,Tarifa média de esgoto,Indicador calculado,32.6
+IN007,Incidência da desp. de pessoal e de serv. de terc. nas despesas totais com os serviços,Indicador calculado,77.5
+IN008,Despesa média anual por empregado,Indicador calculado,71.6
+IN009,Índice de hidrometração,Indicador calculado,78.9
+IN010,Índice de micromedição relativo ao volume disponibilizado,Indicador calculado,75.7
+IN011,Índice de macromedição,Indicador calculado,73.9
+IN012,Indicador de desempenho financeiro,Indicador calculado,77.7
+IN013,Índice de perdas faturamento,Indicador calculado,77.5
+IN014,Consumo micromedido por economia,Indicador calculado,76.1
+IN015,Índice de coleta de esgoto,Indicador calculado,33.5
+IN016,Índice de tratamento de esgoto,Indicador calculado,32.6
+IN017,Consumo de água faturado por economia,Indicador calculado,73.7
+IN018,Quantidade equivalente de pessoal total,Indicador calculado,71.3
+IN019,Índice de produtividade: economias ativas por pessoal total (equivalente),Indicador calculado,70.1
+IN020,Extensão da rede de água por ligação,Indicador calculado,76.2
+IN021,Extensão da rede de esgoto por ligação,Indicador calculado,33.8
+IN022,Consumo médio percapita de água,Indicador calculado,74.3
+IN023,Índice de atendimento urbano de água,Indicador calculado,74.9
+IN024,Índice de atendimento urbano de esgoto referido aos municípios atendidos com água,Indicador calculado,32.5
+IN025,Volume de água disponibilizado por economia,Indicador calculado,74.1
+IN026,Despesa de exploração por m3 faturado,Indicador calculado,76.2
+IN027,Despesa de exploração por economia,Indicador calculado,76.2
+IN028,Índice de faturamento de água,Indicador calculado,75.8
+IN029,Índice de evasão de receitas,Indicador calculado,77.7
+IN030,Margem da despesa de exploração,Indicador calculado,78.9
+IN031,Margem da despesa com pessoal próprio,Indicador calculado,77.3
+IN032,Margem da despesa com pessoal total (equivalente),Indicador calculado,77.3
+IN033,Margem do serviço da divida,Indicador calculado,74.9
+IN034,Margem das outras despesas de exploração,Indicador calculado,76.5
+IN035,Participação da despesa com pessoal próprio nas despesas de exploração,Indicador calculado,77.5
+IN036,Participação da despesa com pessoal total (equivalente) nas despesas de exploração,Indicador calculado,77.5
+IN037,Participação da despesa com energia elétrica nas despesas de exploração,Indicador calculado,77.7
+IN038,Participação da despesa com produtos químicos nas despesas de exploração (DEX),Indicador calculado,77.5
+IN039,Participação das outras despesas nas despesas de exploração,Indicador calculado,76.8
+IN040,Participação da receita operacional direta de água na receita operacional total,Indicador calculado,77.7
+IN041,Participação da receita operacional direta de esgoto na receita operacional total,Indicador calculado,34.6
+IN042,Participação da receita operacional indireta na receita operacional total,Indicador calculado,77.7
+IN043,Participação das economias residenciais de água no total das economias de água,Indicador calculado,77.1
+IN044,Índice de micromedição relativo ao consumo,Indicador calculado,74.2
+IN045,Índice de produtividade: empregados próprios por 1000 ligações de água,Indicador calculado,76.6
+IN046,Índice de esgoto tratado referido à água consumida,Indicador calculado,33.5
+IN047,Índice de atendimento urbano de esgoto referido aos municípios atendidos com esgoto,Indicador calculado,32.3
+IN048,Índice de produtividade: empregados próprios por 1000 ligações de água + esgoto,Indicador calculado,77.0
+IN049,Índice de perdas na distribuição,Indicador calculado,75.1
+IN050,Índice bruto de perdas lineares,Indicador calculado,74.4
+IN051,Índice de perdas por ligação,Indicador calculado,74.4
+IN052,Índice de consumo de água,Indicador calculado,77.3
+IN053,Consumo médio de água por economia,Indicador calculado,75.8
+IN054,Dias de faturamento comprometidos com contas a receber,Indicador calculado,77.4
+IN055,Índice de atendimento total de água,Indicador calculado,78.0
+IN056,Índice de atendimento total de esgoto referido aos municípios atendidos com água,Indicador calculado,34.5
+IN057,Índice de fluoretação de água,Indicador calculado,70.7
+IN058,Índice de consumo de energia elétrica em sistemas de abastecimento de água,Indicador calculado,70.6
+IN059,Índice de consumo de energia elétrica em sistemas de esgotamento sanitário,Indicador calculado,32.0
+IN060,Índice de despesas por consumo de energia elétrica nos sistemas de água e esgotos,Indicador calculado,70.6
+IN071,Economias atingidas por paralisações,Indicador calculado,47.6
+IN072,Duração média das paralisações,Indicador calculado,62.7
+IN073,Economias atingidas por intermitências,Indicador calculado,34.2
+IN074,Duração média das intermitências,Indicador calculado,36.7
+IN075,Incidência das análises de cloro residual fora do padrão,Indicador calculado,75.2
+IN076,Incidência das análises de turbidez fora do padrão,Indicador calculado,76.3
+IN077,Duração média dos reparos de extravasamentos de esgotos,Indicador calculado,6.5
+IN079,Índice de conformidade da quantidade de amostras - cloro residual,Indicador calculado,73.9
+IN080,Índice de conformidade da quantidade de amostras - turbidez,Indicador calculado,73.6
+IN082,Extravasamentos de esgotos por extensão de rede,Indicador calculado,7.5
+IN083,Duração média dos serviços executados,Indicador calculado,64.4
+IN084,Incidência das análises de coliformes totais fora do padrão,Indicador calculado,69.4
+IN085,Índice de conformidade da quantidade de amostras - coliformes totais,Indicador calculado,70.0
+IN101,Índice de suficiência de caixa,Indicador calculado,69.2
+IN102,Índice de produtividade de pessoal total (equivalente),Indicador calculado,65.4
